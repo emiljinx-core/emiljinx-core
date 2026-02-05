@@ -8,6 +8,12 @@
 
 I'm passionate about building intelligent systems from the ground up — from implementing neural networks from scratch to fine-tuning state-of-the-art transformer models. I believe in understanding the math behind the algorithms and deploying real-world AI solutions that make an impact.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/pacman-contribution-graph.svg">
+</picture>
+
 ### 🔭 What I'm Currently Working On
 - Fine-tuning transformer models for cybersecurity threat detection
 - Building explainable AI systems for critical decision-making
@@ -155,11 +161,7 @@ Earned 85+ Arcade Points demonstrating proficiency in:
 </div>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/pacman-contribution-graph.svg">
-</picture>
+
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 ---
