@@ -150,6 +150,8 @@ Earned 85+ Arcade Points demonstrating proficiency in:
 
 ![Pac-Man Animation](https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/pacman-contribution-graph.svg)
 
+![Pac-Man Dark](https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
