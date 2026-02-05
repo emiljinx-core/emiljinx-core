@@ -140,30 +140,108 @@ Earned 85+ Arcade Points demonstrating proficiency in:
 
 **💭 "Understanding algorithms from the ground up, deploying AI for real-world impact"**
 
-### 📊 GitHub Statistics
+
+# Emil Jinu
+
+**AI/ML Engineer** • Building intelligent systems from scratch to production
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emiljinu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emiljinx@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=emiljinx-core&color=blue)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+---
+
+## 🎯 What I Do
+
+Passionate about **deep learning, NLP, and cybersecurity AI**. I build neural networks from scratch, fine-tune transformers, and deploy explainable systems that solve real-world problems.
+
+**Currently:** Fine-tuning transformers for threat detection • Building from-scratch ML implementations • Exploring bioinformatics AI
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ [Sysmon Sentinel](https://lnkd.in/ezT-rp6M) — Explainable Malware Detection
+Fine-tuned DistilBERT & TinyBERT for Windows threat detection with **97.6% accuracy**. Built Next.js dashboard with LLaMA-3 powered explanations.  
+`PyTorch` `Transformers` `Next.js` `Ensemble Learning`  
+**[Live Demo](https://lnkd.in/exNXu629)** • **[Frontend](https://lnkd.in/eBi7bCNs)**
+
+### 🧬 [Protein Structure Predictor](https://lnkd.in/e8Pfcux8) — AI Bioinformatics
+AlphaFold2 integration for 3D protein structure prediction with interactive Py3Dmol visualization.  
+`AlphaFold2` `Streamlit` `BioColabFold` `Py3Dmol`  
+**[Live App](https://lnkd.in/etVK9hEY)**
+
+### 🎬 [Movie Recommender](https://lnkd.in/e2b2WR26) — NLP Content Filtering
+Content-based system using TF-IDF and cosine similarity with TMDb API integration.  
+`NLP` `Scikit-learn` `Streamlit` `TMDb API`  
+**[Live Demo](https://lnkd.in/eiTU9Tke)**
+
+### 💧 [Water Potability Classifier](https://lnkd.in/eaaJin5r) — Public Health ML
+Classification pipeline for water quality assessment — **92.5% accuracy** with Random Forest.  
+`Scikit-learn` `Pandas` `Seaborn`
+
+### 📐 [ML From Scratch](https://lnkd.in/eSg3Ey9X) — Fundamentals Series
+Building algorithms from the ground up using only NumPy. Linear Regression → Neural Networks.  
+`NumPy` `Mathematics` `Core ML`
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+🏆 **Neural Networks & Deep Learning** — DeepLearning.AI (99.25%) • [Verify](https://coursera.org/verify/PAYI6C0GU2BK)  
+🏆 **Python for Data Science & AI** — IBM (99.25%) • [Verify](https://coursera.org/verify/4CXCX7E2Y7I3)  
+🏆 **Computing Systems** — BITS Pilani (75%) • [Verify](https://coursera.org/verify/7QIL6HIE9B9L)  
+🤖 **Transformers & BERT** — Simplilearn • Google Cloud SkillUp  
+✍️ **Prompt Engineering** — IBM Developer Skills Network  
+🥽 **Mobile VR & AI** — NPTEL × IIT Mandi (87%)  
+
+---
+
+## 🏅 Achievements
+
+**🎮 Google Cloud Arcade Legend** — Season 1, 2025 (85+ Points)  
+Kubernetes • Vertex AI • BigQuery • Cloud Run • Infrastructure & ML Workflows
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emiljinx-core&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emiljinx-core&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiljinx-core&layout=compact&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emiljinx-core&theme=tokyo-night&hide_border=true)
-
-![Snake animation](https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/github-snake-dark.svg)
-
-![Pac-Man Animation](https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/pacman-contribution-graph.svg)
-
-![Pac-Man Dark](https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
-
-
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=emiljinx-core&color=blueviolet)
+<div align="center">
+
+_Building AI systems that matter, one algorithm at a time_ 🚀
+
+</div>
