@@ -133,18 +133,23 @@ Earned 85+ Arcade Points demonstrating proficiency in:
 ---
 
 **💭 "Understanding algorithms from the ground up, deploying AI for real-world impact"**
+
 ### 📊 GitHub Statistics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emiljinu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emiljinx-core&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emiljinu&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emiljinx-core&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiljinu&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiljinx-core&layout=compact&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emiljinu&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emiljinx-core&theme=tokyo-night&hide_border=true)
+
+![Snake animation](https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/github-snake-dark.svg)
 
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=emiljinu&color=blueviolet)
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=emiljinx-core&color=blueviolet)
