@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 ML engineer focused on understanding AI from first principles. I implement algorithms from scratch, fine-tune transformers, and build explainable systems for real-world applications.
-<img src="./gif.gif" width="320" align="right"/>
+<img src="./comgif.gif" width="320" align="right"/>
 **What drives me:**
 - 🧠 Deep understanding of ML fundamentals through implementation from scratch
 - 🛡️ Building explainable AI systems for critical decision-making
