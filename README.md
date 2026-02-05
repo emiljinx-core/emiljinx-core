@@ -14,8 +14,8 @@
 
 ### 👨‍💻 About Me
 
-- AI | ML engineer focused on understanding AI from first principles. 
-- I implement algorithms from scratch, fine-tune transformers, and build explainable systems for real-world applications.
+AI | ML engineer focused on understanding AI from first principles. 
+I implement algorithms from scratch, fine-tune transformers, and build explainable systems for real-world applications.
 <img src="./comgif.gif" width="320" align="right"/>
 
 **What drives me:**
