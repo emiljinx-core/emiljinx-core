@@ -4,7 +4,8 @@
 
 <div align="center">
 
-## 👋 Hi there, I'm Emil Jinu
+# 👋 Hi there, I'm Emil Jinu
+
 #### AI/ML Engineer | Building Intelligent Systems
 
 </div>
