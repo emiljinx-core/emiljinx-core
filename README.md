@@ -1,18 +1,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=emiljinx-core&color=blue)
 ![Stars](https://img.shields.io/github/stars/emiljinx-core?style=social)
 ![Followers](https://img.shields.io/github/followers/emiljinx-core?style=social)
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=auto&text=Emil%20Jinu%20&textBg=false&animation=twinkling&fontSize=50&fontColor=f3f6f4&fontAlignY=35&rotate=0&stroke=000000&strokeWidth=2&desc=AI/ML%20Engineer%20|%20Building%20Intelligent%20Systems&descSize=23&descAlignY=75"  />
 </div>
+
 <div align="center">
-
-# 👋 Hi there, I'm Emil Jinu
-
-#### AI/ML Engineer | Building Intelligent Systems
-
-</div>
-
----
 
 ### 👨‍💻 About Me
 
@@ -34,14 +28,10 @@ I implement algorithms from scratch, fine-tune transformers, and build explainab
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/pacman-contribution-graph.svg">
-</picture>
+<img src="./emiljinx-core-space-shooter.gif" align="center"/>
 
 ---
-<img src="./emiljinx-core-space-shooter.gif" align="center"/>
+
 ### 🚀 Featured Projects
 
 #### 🛡️ [Sysmon Sentinel – Explainable Malware Detection](https://lnkd.in/ezT-rp6M)
@@ -193,3 +183,13 @@ I implement algorithms from scratch, fine-tune transformers, and build explainab
 *Found something useful? Star the repo!* ⭐
 
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emiljinx-core/emiljinx-core/output/pacman-contribution-graph.svg">
+</picture>
+
+---
