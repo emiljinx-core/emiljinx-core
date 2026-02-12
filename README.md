@@ -28,8 +28,6 @@ I implement algorithms from scratch, fine-tune transformers, and build explainab
 
 <img src="./emiljinx-core-space-shooter.gif" align="center"/>
 
----
-
 <div align="center">
   
 ### 📫 Let's Connect!
