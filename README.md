@@ -1,7 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=emiljinx-core&color=blue)
 ![Stars](https://img.shields.io/github/stars/emiljinx-core?style=social)
 ![Followers](https://img.shields.io/github/followers/emiljinx-core?style=social)
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Emil%20Jinu&fontSize=50&fontColor=f3f6f4&fontAlign=50&fontAlignY=35&rotate=0&stroke=000000&strokeWidth=2&animation=twinkling&desc=AI%20%20%ML%20Engineer%20|%20%Building%20Intelligent%20Systems&descSize=23&descAlign=50&descAlignY=75&color=random"  />
+</div>
 <div align="center">
 
 # 👋 Hi there, I'm Emil Jinu
@@ -39,7 +41,7 @@ I implement algorithms from scratch, fine-tune transformers, and build explainab
 </picture>
 
 ---
-
+<img src="./emiljinx-core-space-shooter.gif" width="320" align="right"/>
 ### 🚀 Featured Projects
 
 #### 🛡️ [Sysmon Sentinel – Explainable Malware Detection](https://lnkd.in/ezT-rp6M)
