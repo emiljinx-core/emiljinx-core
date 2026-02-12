@@ -3,10 +3,8 @@
 ![Followers](https://img.shields.io/github/followers/emiljinx-core?style=social)
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=auto&text=Emil%20Jinu%20&textBg=false&animation=twinkling&fontSize=50&fontColor=f3f6f4&fontAlignY=35&rotate=0&stroke=000000&strokeWidth=2&desc=AI/ML%20Engineer%20|%20Building%20Intelligent%20Systems&descSize=23&descAlignY=75"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0000FF&text=Emil%20Jinu%20&textBg=false&animation=fadeIn&fontSize=50&fontColor=f3f6f4&fontAlignY=35&rotate=0&stroke=000000&strokeWidth=1&desc=AI/ML%20Engineer%20|%20Building%20Intelligent%20Systems&descSize=23&descAlignY=75"  />
 </div>
-
-<div align="center">
 
 ### 👨‍💻 About Me
 
