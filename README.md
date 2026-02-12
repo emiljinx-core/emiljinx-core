@@ -12,6 +12,11 @@ AI | ML engineer focused on understanding AI from first principles.
 I implement algorithms from scratch, fine-tune transformers, and build explainable systems for real-world applications.
 <img src="./comgif.gif" width="320" align="right"/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://emiljinx-core.github.io/emiljinx-core/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emiljinu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiljinx@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emiljinx-core)
+
 **What drives me:**
 - 🧠 Deep understanding of ML fundamentals through implementation from scratch
 - 🛡️ Building explainable AI systems for critical decision-making
@@ -164,6 +169,7 @@ I implement algorithms from scratch, fine-tune transformers, and build explainab
   
 ### 📫 Let's Connect!
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://emiljinx-core.github.io/emiljinx-core/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emiljinu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiljinx@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emiljinx-core)
